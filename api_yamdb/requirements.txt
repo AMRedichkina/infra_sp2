@@ -3,7 +3,7 @@ django==2.2.16
 djangorestframework==3.12.4
 drf-yasg==1.20
 django_filter==2.4.0
-djangorestframework-simplejwt==4.8.0
+djangorestframework-simplejwt==4.7.2
 gunicorn==20.0.4
 psycopg2-binary==2.8.6
 pytest==6.2.4
