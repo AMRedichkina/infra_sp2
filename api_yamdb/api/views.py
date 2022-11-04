@@ -14,7 +14,6 @@ from rest_framework.decorators import action, api_view
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework.views import APIView
 from rest_framework import permissions
-from rest_framework.decorators import action
 
 
 from .serializers import (CategorySerializer, GenreSerializer,
